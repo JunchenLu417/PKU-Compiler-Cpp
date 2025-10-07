@@ -1,2 +1,9 @@
 *.DS_Store
 /build
+.idea/
+
+# flex & bison generated
+examples/flex-demo/lex.yy.c
+
+# binaries
+examples/flex-demo/lexer
