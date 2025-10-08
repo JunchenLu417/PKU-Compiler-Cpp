@@ -4,6 +4,9 @@
 
 # flex & bison generated
 examples/flex-demo/lex.yy.c
+examples/bison-demo/*.c
+examples/bison-demo/*.h
 
 # binaries
 examples/flex-demo/lexer
+examples/bison-demo/calc
